@@ -14,6 +14,9 @@ Install the project dependencies using npm:
 ```python
 npm install
 ```
+```python
+npm install convex@1.3.1
+```
 
 # **Setting up Environment Variables**
 
