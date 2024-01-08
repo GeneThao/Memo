@@ -14,6 +14,7 @@ Install the project dependencies using npm:
 ```python
 npm install
 ```
+and
 ```python
 npm install convex@1.3.1
 ```
