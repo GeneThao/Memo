@@ -21,7 +21,7 @@ npm install convex@1.3.1
 
 # **Setting up Environment Variables**
 
-Create a new file named .env in the root of your project and add the following content:
+Create a new file named ```.env.local``` in the root of your project and add the following content:
 
 ```python
 CONVEX_DEPLOYMENT=
